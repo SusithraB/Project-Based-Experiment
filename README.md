@@ -41,17 +41,21 @@ From the HDL code given formulate the correct code  to divert the traffic to pa
 5.	For different input combinations generate the timing diagram
    
 **Program:**
+**Program to implement the given logic function and to verify its operations in quartus using Verilog programming**
 
-/* Program to implement the given logic function and to verify its operations in quartus using Verilog programming. 
-
-Developed by: RegisterNumber:*/
+**Developed by:SUSITHRA.B**
+**RegisterNumber:212223220113**
+![image](https://github.com/SusithraB/Project-Based-Experiment/assets/146347839/34c0d89d-897b-47ee-8973-7305b1084c37)
+![image](https://github.com/SusithraB/Project-Based-Experiment/assets/146347839/2f946a32-c535-4320-b37d-42d15835966b)
 
 **RTL Schematic**
+![image](https://github.com/SusithraB/Project-Based-Experiment/assets/146347839/af3bbde8-edd3-4ad2-9321-74b60dad8d0d)
 
 **Output Timing Waveform**
+![image](https://github.com/SusithraB/Project-Based-Experiment/assets/146347839/0e58c0f0-5cd6-49b3-9d06-355987305f78)
 
 **Result:**
-
+Thus the program executed successfully
 
 
 
